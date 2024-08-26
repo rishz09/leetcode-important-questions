@@ -1,2 +1,4 @@
 # leetcode-important-questions
-Codes of some questions which I find extremely helpful in learning new tricks or concepts, or which teaches me to implement multiple concepts in a single question.
+* All codes are in C++
+* LeetCode profile: [Profile](https://leetcode.com/u/rishz09/)
+* Link to problem list: [List](https://leetcode.com/problem-list/m1rvosq7/)
